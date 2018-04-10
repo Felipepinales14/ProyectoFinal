@@ -1,0 +1,18 @@
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\obj\Debug\Trabajo.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\obj\Debug\Trabajo.Trabajo.resources
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.GenerateResource.Cache
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\Familia\Documents\Visual Studio 2012\Projects\Trabajo\Trabajo\obj\Debug\Trabajo.pdb
+C:\Users\juan\Desktop\Trabajo\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\juan\Desktop\Trabajo\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\juan\Desktop\Trabajo\Trabajo\obj\Debug\Trabajo.pdb
+C:\Users\juan\Desktop\Trabajo\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\juan\Desktop\Trabajo\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\juan\Desktop\Trabajo\Trabajo\obj\Debug\Trabajo.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\Trabajo\Trabajo\obj\Debug\Trabajo.Trabajo.resources
+C:\Users\juan\Desktop\Trabajo\Trabajo\obj\Debug\Trabajo.Properties.Resources.resources
+C:\Users\juan\Desktop\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.GenerateResource.Cache
